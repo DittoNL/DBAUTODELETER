@@ -4,8 +4,8 @@ local zt91xk3pvo = qweu9z1mxa:WaitForChild("Inventory")
 
 
 
-local mncx72pqa = "username"
-local vbx91zqwe = "item"
+local mncx72pqa = "exclude players for deletion here"
+local vbx91zqwe = "add item here to exclude from being deleted"
 local function r9xk2mna(plr9x)
 
     local b7zq19 = plr9x:FindFirstChild("Backpack")
